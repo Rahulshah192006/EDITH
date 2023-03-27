@@ -1,0 +1,9 @@
+pyperclip
+pywhatkit
+wikipedia
+pytube
+pyautogui
+pyperclip
+speedtest
+wolframalpha
+pyautogui
